@@ -2,7 +2,7 @@
 
 **Software Engineer · Backend Systems · Applied AI/ML · Systems**
 
-B.Tech CSE student graduating in 2027, focused on building practical software across backend engineering, retrieval systems, reinforcement learning, computer vision, and low-level systems.
+B.Tech CSE student graduating in 2027, focused on building practical software across retrieval systems, reinforcement learning, computer vision, and low-level systems.
 
 ## Featured work
 
