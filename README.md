@@ -130,17 +130,8 @@ Performance-oriented software, simulation environments, resource-allocation prob
 
 ---
 
-## Currently
-
-- Building and refining production-oriented software and ML systems.
-- Exploring backend architecture, retrieval/agentic systems, reinforcement learning, and computer vision.
-- Improving project quality through stronger testing, documentation, architecture, and deployment practices.
-- Preparing for software engineering roles beginning in 2027.
-
----
-
 <div align="center">
 
-**Build things that are understandable, testable, and useful.**
+**Changing the world one centered div at a time.**
 
 </div>
