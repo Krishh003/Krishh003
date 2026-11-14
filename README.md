@@ -6,7 +6,7 @@
 
 B.Tech CSE · Class of 2027
 
-I build production-oriented software across backend engineering, retrieval systems, reinforcement learning, computer vision, and simulation.
+Reach for the Skies!
 
 [![Email](https://img.shields.io/badge/Email-akarshhankumar003%40gmail.com-181717?style=flat-square&logo=gmail)](mailto:akarshhankumar003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Krishh003-181717?style=flat-square&logo=github)](https://github.com/Krishh003)
